@@ -1,0 +1,18 @@
+@keyframes populate {
+  0% {
+    transform: scale(0.5);
+    opacity: 0.3;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-populate {
+  animation: populate 0.3s ease-out;
+}
