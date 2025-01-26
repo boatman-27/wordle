@@ -14,7 +14,6 @@ A fully functional Wordle clone built with React and TypeScript. This applicatio
   - `In Progress`: Active gameplay.
   - `Won`: The user guesses the word correctly.
   - `Lost`: The user exhausts all attempts.
-- **Responsive Design**: Optimized for both desktop and mobile screens.
 - **Error Handling**: Invalid inputs are gracefully handled.
 
 ## Installation
